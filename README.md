@@ -14,8 +14,8 @@ Screenshot
 
 Build instructions
 --
-1. Download and install Qt (https://www.qt.io/download-open-source/)
-2. Open Qt Creator, File > Open File or Project... > Locate `ExpGame.pro` and select it
+1. Download and install Qt (https://download.qt.io/archive/qt/5.2/5.2.0/)
+2. Open Qt Creator, File > Open File or Project... > Locate `2048-final.pro` and select it
 3. Build project
 4. Run
 
