@@ -9,7 +9,7 @@ The core is decoupled from the GUI using the **observer pattern**, so it is easy
 
 Screenshot
 --
-![Alt text]<img src="app_screenshote_1.png" width="650" height="650" align="middle"/>
+![Alt text]<img src="app_screenshot_1.png" width="650" height="650" align="middle"/>
 
 
 Build instructions
